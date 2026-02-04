@@ -1,0 +1,1 @@
+In Lab 1 I practice the basics of Javascript. I attempted function declarations, function expressions, arrow functions, object literals, objeacts and prototype-based inheritance. The exercises overloaded my mind with complex ideas about Javascript.
